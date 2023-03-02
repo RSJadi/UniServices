@@ -1,0 +1,18 @@
+.home {
+    background-image: url(img/background.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.home h1 {
+    color: #02316fd8;
+    font-size: 94px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Merriweather";
+}
+
+.home h1 span {
+    color: #595959;
+}

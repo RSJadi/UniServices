@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 12px;
+}
+
+.header img {
+    width: 100px;
+}
+
+.header .menu {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header .menu a {
+    font-family: 'Ruda';
+    color: #02316fab;
+    text-decoration: none;
+    padding: 30px 10px;
+    font-size: 22px;
+}
+
+/* .equipe{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.service{
+    margin-right: auto;
+}
+.fornece{
+    margin-right: 10px ;
+} */

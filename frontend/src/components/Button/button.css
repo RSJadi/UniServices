@@ -1,0 +1,16 @@
+button.button {
+    border-radius: 30px;
+    border: 15px solid transparent;
+    font-size: 22px;
+    font-family: 'Ruda';
+    background-color: #ffffff;
+    cursor: pointer;
+    color: #02316fab;
+}
+button.button:hover {
+    border-color: #e8e9f8;
+}
+button.button:focus,
+button.button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+}

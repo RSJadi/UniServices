@@ -1,0 +1,112 @@
+.servico{
+    background-color: #c6b9b1;
+    font-size: 94px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Merriweather";
+}
+span{
+color: hsla(214, 96%, 22%, 0.847) ;
+font-size: 100px;
+}
+h1{
+    font-size: 100px;
+    font-family: "Merriweather"}
+
+.img-2{
+    width: 200px;
+    height: 150px;
+}
+
+
+.p2{
+     font-size: 15px;
+    align-items: center;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+Button{
+   background-color: #02316fd8 ;
+   color: white;
+   text-transform: none;
+   border: 2px solid transparent;
+   font-weight: bold;
+    padding: 13px 20px;
+    border-radius: 30px;
+    border-radius: 30px;
+    transition: .4s;
+    margin: 10px; 
+    border: none;
+    padding: 18px;
+
+}
+
+
+
+.Button:hover{
+    background-color:transparent ;
+    border: 2px solid  #02316fd8;
+    cursor: pointer;}
+
+.caixa{
+    background-color: #02316fd8 ;
+    height: 335px;
+    border: 20px;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.card{
+    background-color:  #02316fd8 ;
+  
+    border-radius: 10px;
+    margin: 10px;
+  
+    overflow: hidden;
+    text-align: center;
+   
+    color: white;
+    font: bold 2em 'Century Gothic';
+    text-transform: uppercase;
+}
+
+@keyframes AnimarBorda{
+    0%{
+        background-position: 0;
+    }
+    100%{
+        background-position: 200%;
+    }
+
+}
+.img #test{
+    width: 600px;
+    height: 400px;
+}
+.img-1{
+    height: 20%;
+    width: 20%;
+}
+button{
+    background: white;
+    color: #02316fd8 ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    font-size: 3rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+   
+    transition: .4s;
+}
+.Button:hover{
+    background: #02316fd8 ;
+    color: white;
+    letter-spacing: 4px;
+}
+
